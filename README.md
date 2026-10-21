@@ -1,5 +1,5 @@
 # HMM-SMC-2026
-Final project for Hidden Markov Models and Sequential Monte Carlo Methods (APM_5ST02_AE) in IP Paris/ENSAE. 
+Final project for Hidden Markov Models and Sequential Monte Carlo Methods (APM_5ST02_AE) at IP Paris/ENSAE. 
 
 ## Authors
 * Katerina MICHENINA
